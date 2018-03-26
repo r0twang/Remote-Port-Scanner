@@ -1,0 +1,9 @@
+C:\Dropzone\gym\portscanner\PortScanner\PortScanner\bin\Debug\PortScanner.exe.config
+C:\Dropzone\gym\portscanner\PortScanner\PortScanner\bin\Debug\PortScanner.exe
+C:\Dropzone\gym\portscanner\PortScanner\PortScanner\bin\Debug\PortScanner.pdb
+C:\Dropzone\gym\portscanner\PortScanner\PortScanner\obj\Debug\PortScanner.csprojResolveAssemblyReference.cache
+C:\Dropzone\gym\portscanner\PortScanner\PortScanner\obj\Debug\PortScanner.Form1.resources
+C:\Dropzone\gym\portscanner\PortScanner\PortScanner\obj\Debug\PortScanner.Properties.Resources.resources
+C:\Dropzone\gym\portscanner\PortScanner\PortScanner\obj\Debug\PortScanner.csproj.GenerateResource.Cache
+C:\Dropzone\gym\portscanner\PortScanner\PortScanner\obj\Debug\PortScanner.exe
+C:\Dropzone\gym\portscanner\PortScanner\PortScanner\obj\Debug\PortScanner.pdb
